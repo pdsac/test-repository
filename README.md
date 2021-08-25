@@ -6,5 +6,5 @@ pip install Flask
 RESTful-app.py
 ```
 
-##Implementation
+## Implementation
 This project is implemented using Flask, and is a REST API for a store.
